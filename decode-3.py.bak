@@ -1,0 +1,82 @@
+import re
+import js2py
+import codecs
+import jsbeautifier
+import array
+import base64
+import sys  
+
+reload(sys)  
+sys.setdefaultencoding('utf8')
+
+string=""
+
+def UnicodeExcape(oMatch):
+	c=oMatch.group(1)
+	c=re.sub(r"[\s\t\n]",'',c)
+	#print c
+	c=c.decode('unicode-escape')
+	return c
+
+def arraystr(oMatch):
+	a=[]
+	a.extend(oMatch.group(1).split(","))
+	return a[int(oMatch.group(3))]
+
+def Detonation(oMatch):
+	context = js2py.EvalJs({'python_sum': sum})  
+	str1='var a='+oMatch.group(1)
+	context.execute(str1)
+	
+	return str(context.a)
+def Detonation2(oMatch):
+	context = js2py.EvalJs({'python_sum': sum})  
+	str1='function ulrich(t, y, u)\r\n{\r\n\treturn u[\'len\' + \'gth\'];\r\n};var b='+oMatch.group(1)+'; \nvar a=(b);'
+	#print str1
+	context.execute(str1)
+	#print str(context.a)
+	#exit();
+	return '\"'+str(context.a)+'\"'
+
+
+def Charkonwerter(oMatch):
+	s=oMatch.group(1)+"\'\' + "+oMatch.group(3)
+	s=re.sub(r"\'\'\s+\+\s+","",s)
+	s=re.sub(r"\s+\+\s+","",s)
+	return "\'"+s+"\'"
+
+def LikwidacjaZmiennychint(oMatch):
+	ret=re.sub(oMatch.group(1),oMatch.group(2),string)
+	ret=re.sub(oMatch.group(1),"",ret)
+	return ret
+
+def Liczint(oMatch):
+	#print oMatch.group(1)
+	#print str(eval(oMatch.group(1)))
+	return ""
+#str(eval(oMatch.group(1)))
+
+def intret(oMatch):
+	return oMatch.group(1)
+
+def base64decode(oMatch):
+	return "\""+base64.b64decode(oMatch.group(1))+"\""
+
+def strconverter2(oMatch):
+	return re.sub(r"(\"\s?\+\s?\")","",oMatch.group(1))
+
+def Decode(data):
+		d=data
+
+		
+		d=re.sub(r"(\(function\s[a-zA-Z\d]+\(\)[\r\n\s\t]+\{[\r\n\s\t]+[\w\s\=\,\'\;\{\}\(\)\r\n\:A-Z\[\]]+return[\r\n\s\t]+String\[\"fromCharCode\"\]\([A-Za-z\d]+\s\-\sulrich\(1\,\s\'[a-zA-Z\d]+\'\,\sarguments\)\)\;[\r\n\s\t]+\}\)\([\'a-zA-Z\d\'\,\s]+\))",Detonation2,d)
+		d=re.sub(r"\"\s\+\s\"","",d)
+
+		d=re.sub(r"([a-z]{3,10})\s*\\\s*u([\da-f]+)","\\1 \\u\\2",d,flags=re.MULTILINE)
+		d=re.sub(r"\\\su([\da-f]+)","\\u\\1",d,flags=re.MULTILINE)
+		d=re.sub(r"((\'\'\s\+\s[\w\W]\s\+\s)+)\'\'\s\+\s([\w\W])",Charkonwerter,d,flags = re.MULTILINE)
+		d=re.sub(r"\\[\s\r\t\n]+(u[\da-f]{4})","\n\\\\\\1",d)
+
+	
+		d=re.sub(r"(\\u[\da-f]{4})", UnicodeExcape, d)
+		return d

